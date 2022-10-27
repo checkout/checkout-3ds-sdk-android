@@ -30,7 +30,7 @@ Then, configure your app to:
 1. Request authentication and handle the result to continue your payment flow.
 <br/><br/>
    
-👉  [See the Integration Guide with Code Examples]((https://www.checkout.com/docs/risk-management/3d-secure/sessions/non-hosted-sessions/3d-secure-mobile-sdks) for full details.
+👉  [See the Integration Guide with Code Examples](https://www.checkout.com/docs/risk-management/3d-secure/sessions/non-hosted-sessions/3d-secure-mobile-sdks) for full details.
 <br/>
 📚  [Read the reference documentation](https://checkout.github.io/checkout-mobile-docs/checkout-3ds-sdk-android/index.html)
 <br/><br/>
