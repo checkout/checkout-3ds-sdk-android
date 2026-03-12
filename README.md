@@ -12,7 +12,7 @@ The SDK handles the device data collection, communication with the card issuer, 
 ## Latest Release in Maven Central
 [![Latest Release](https://maven-badges.sml.io/sonatype-central/com.checkout/checkout-sdk-3ds-android/badge.svg?subject=Latest%20Release&color=blue)](https://central.sonatype.com/artifact/com.checkout/checkout-sdk-3ds-android)
 ## Features
-- Supports <strong>3D Secure protocols 2.1.0 and 2.2.0</strong>.https://central.sonatype.com/artifact/com.checkout/checkout-sdk-3ds-android
+- Supports <strong>3D Secure protocols 2.1.0 and 2.2.0</strong>.
 - Presents <strong>native 3DS2 challenge screens</strong> to the user, with <strong>styling that you can customise</strong> to best fit your apps and branding.
 - Optionally <strong>falls back to 3DS1</strong> when 3DS2 is not available, returning the same authentication result to your app as for 3DS2. (This option can be configured by Checkout.com for your account.)
 - Supports a <strong>range of local languages and accessibility needs</strong>, and allows you to set your own string translations.
