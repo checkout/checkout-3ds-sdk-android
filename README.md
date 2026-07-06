@@ -42,7 +42,7 @@ Then, configure your app to:
 
 The Android SDK depends on some external libraries:
 <br/><br/>
--   To help maintain security, we use [Jose JWT](https://connect2id.com/products/nimbus-jose-jwt) and [Jetpack Security](https://developer.android.com/jetpack).
+-   To help maintain security, we use [Jose JWT](https://connect2id.com/products/nimbus-jose-jwt).
 -   To help provide support and monitor the performance of the SDK, we use our own Checkout Event Logger.
 <br/><br/>
 ## Help and Feedback
